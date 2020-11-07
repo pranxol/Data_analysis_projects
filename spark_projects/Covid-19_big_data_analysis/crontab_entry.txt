@@ -1,0 +1,2 @@
+15 * * * * /home/hadoop/development/autoschedule.sh
+
