@@ -1,1 +1,1 @@
-During the course of Dataquest.io I have done this projects
+During the course of Dataquest.io I had done these projects
