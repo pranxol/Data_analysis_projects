@@ -4,7 +4,7 @@ The following analytics has been done:
 - Month, Year and countryterritoryCode wise **Infection Rate** and **Death Rate**.
 
 Where,
->Infection Rate = (cases / TestPerformed) * 100%
+>Infection Rate = (cases / TestPerformed) * 100%  
 Death Rate = (deaths / cases) * 100%
 
 ## Setup Used for this analysis
