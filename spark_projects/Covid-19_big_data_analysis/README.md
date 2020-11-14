@@ -5,7 +5,7 @@ The following analytics has been done:
 
 Where,
 >Infection Rate = (cases / TestPerformed) * 100%
->Death Rate = (deaths / cases) * 100%
+Death Rate = (deaths / cases) * 100%
 
 ## Setup Used for this analysis
 - Number of hadoop cluster = 2
